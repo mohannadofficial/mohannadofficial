@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mohannadofficial
 - 👀 I’m interested in Mobile Application
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Next.JS,Flutter
